@@ -13,3 +13,5 @@ python -m unittest -v
 ```
 
 Before submitting, please make sure that all the tests pass.
+
+For task 7, upload the test dataset in google collab before running the cells for task 7.
